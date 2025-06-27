@@ -34,10 +34,19 @@ A primeira página do dashboard apresenta uma visão geral das vendas no marketp
 <img src="Pagamento.jpg" alt="Pagamentos" width="800">
 </p>
 
+O dashboard revela que a maior parte do valor pago pelos clientes (R$ 12,54M) foi através de cartão de crédito, representando também o maior número de encomendas. Os boletos aparecem em segundo lugar, com 23 mil encomendas. O uso de vouchers e cartões de débito é marginal, destacando a preferência dos consumidores por métodos parceláveis.
+
 
 <img src="Entregas.jpg" alt="Entregas" width="800">
 </p>
 
+O dashboard revela que 7.294 pedidos foram entregues com atraso, sendo a média de atraso de 12 dias. Enquanto entregas sem atraso levam cerca de 11 dias, aquelas com atraso demoram em média 33,77 dias. A região Norte apresenta o maior tempo médio de entrega (22,55 dias), contrastando com o Sudeste, que possui maior volume de pedidos e entregas mais rápidas (10,62 dias).
+
 
 <img src="Avaliação de Clientes.jpg" alt="Avaliação Cliente" width="800">
 </p>
+
+O dashboard mostra que entregas realizadas sem atraso possuem uma avaliação média de 4,15, enquanto as entregas com atraso despencam para 2,26, evidenciando forte impacto na satisfação do cliente. A região Sudeste lidera tanto em número de encomendas quanto em avaliação média (4,06). Ao longo do tempo, observa-se uma tendência estável nas avaliações, com leves oscilações entre os trimestres.
+
+
+Todos os painéis permitem a seleção interativa de qualquer região do país, filtrando dinamicamente os dados apresentados de acordo com a zona escolhida.
