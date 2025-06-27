@@ -23,3 +23,21 @@ Durante a exploração dos dados, identifiquei padrões relevantes. Por exemplo,
 Mais do que um exercício técnico, este projeto foi uma oportunidade para aplicar, de forma integrada, os conhecimentos de modelação, análise e storytelling com dados. Desde a estruturação conceitual até a apresentação visual, todas as etapas foram conduzidas com foco em gerar valor informacional.
 
 Ao documentar esse processo aqui no GitHub, pretendo demonstrar minha capacidade de conduzir projetos de Business Intelligence de ponta a ponta, unindo visão estratégica, capacidade analítica e domínio de ferramentas como Power BI e Figma.
+
+## 📊 Dashboard – Análise de Vendas da Olist
+<img src="Vista Geral.jpg" alt="Vista geral" width="800">
+</p>
+
+A primeira página do dashboard apresenta uma visão geral das vendas no marketplace Olist, com destaque para o total de pedidos (98.666), receita acumulada (R$ 15,92 milhões) e avaliação média dos clientes (4,03). Mostra também o volume de pedidos por categoria e por mês, além de um mapa com a receita total por estado. Os filtros permitem segmentar por região do Brasil.
+
+
+<img src="Pagamentos.jpg" alt="Pagamentos" width="800">
+</p>
+
+
+<img src="Pagamento.jpg" alt="Entregas" width="800">
+</p>
+
+
+<img src="Avaliação de Clientes.jpg" alt="Avaliação Cliente" width="800">
+</p>
