@@ -16,7 +16,7 @@ Com o planeamento concluído, iniciei a fase de construção no Power BI. O mode
 
 O dashboard resultante é composto por indicadores-chave de desempenho (KPIs) que incluem o total de pedidos, receita total, ticket médio, tempo médio de entrega com e sem atraso, além da média de avaliações dos clientes. As visualizações foram pensadas para oferecer respostas rápidas a perguntas como: "Qual região tem maior volume de vendas?", "Qual a forma de pagamento mais utilizada?", "Há impacto do atraso na entrega na avaliação do cliente?"
 
-Durante a exploração dos dados, identifiquei padrões relevantes. Por exemplo, o cartão de crédito foi disparadamente a forma de pagamento mais comum, e os pedidos com atraso tiveram uma média de avaliação significativamente inferior aos demais. Também foi possível observar que determinadas regiões apresentavam maior tempo médio de entrega, o que pode sinalizar gargalos logísticos.
+Durante a exploração dos dados, identifiquei padrões relevantes. Por exemplo, o cartão de crédito foi disparadamente a forma de pagamento mais comum, e os pedidos com atraso tiveram uma média de avaliação significativamente inferior aos demais. Também foi possível observar que determinadas regiões apresentavam maior tempo médio de entrega, o que pode sinalizar problemas logísticos.
 
 ## 📌 Reflexões e valor do projeto
 
